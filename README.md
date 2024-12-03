@@ -82,6 +82,10 @@ cd .kube
 ```bash
 cp ~/redhat.conf config
 ```
+## This command help to see the config yaml file intendation.
+```bash
+kubectl config view
+```
 ## Create role-bindings with existing roles.
 
 ```bash
