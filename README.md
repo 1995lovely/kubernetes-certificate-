@@ -13,10 +13,10 @@
 ## Copy certificate authority key and certificate to our user's directory.
 
 ```bash
-cp /etc/kubernetes/pki/ca.crt
+cp /etc/kubernetes/pki/ca.crt /root/redhat
 ```
 ```bash
-cp /etc/kubernetes/pki/ca.key
+cp /etc/kubernetes/pki/ca.key /root/redhat
 ```
 ## Generate key for our user.
 
