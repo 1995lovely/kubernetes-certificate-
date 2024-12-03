@@ -80,7 +80,7 @@ mkdir .kube
 cd .kube
 ```
 ```bash
-cp redhat.conf .kube/config
+cp ~/redhat.conf config
 ```
 ## Create role-bindings with existing roles.
 
