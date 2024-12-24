@@ -126,5 +126,5 @@ kubectl create rolebinding (name) --role=node-reader --user=redhat
 su - redhat
 ```
 ```bash
-kubectl get nodes
+kubectl get pods
 ```
